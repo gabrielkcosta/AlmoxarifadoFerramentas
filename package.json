@@ -1,0 +1,28 @@
+{
+  "name": "almoxarifadoferramentas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielkcosta/AlmoxarifadoFerramentas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gabrielkcosta/AlmoxarifadoFerramentas/issues"
+  },
+  "homepage": "https://github.com/gabrielkcosta/AlmoxarifadoFerramentas#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
